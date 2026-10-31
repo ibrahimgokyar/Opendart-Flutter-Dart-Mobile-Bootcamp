@@ -325,3 +325,27 @@ https://opendart.com/egitimler/Flutter/flutter-egitimi
 Sadece eğitim amaçlıdır.
 
 © Opendart Akademi
+
+<!-- opendart-akademi:bas -->
+
+---
+
+## 🎓 Opendart Akademi
+
+Bu depo, [Opendart Akademi](https://www.opendart.com) eğitmeni **İbrahim Gökyar**'ın **Flutter ve Dart** eğitimlerinde kullanılan örnek kodları içerir.
+
+- 📘 **Eğitim programı:** [Flutter ve Dart eğitimi](https://www.opendart.com/egitimler/Flutter/flutter-egitimi)
+- 📚 **Konu sayfası:** [https://www.opendart.com/egitim/flutter-egitimi](https://www.opendart.com/egitim/flutter-egitimi)
+- ▶️ **YouTube oynatma listesi:** [Flutter ve Dart videoları](https://www.youtube.com/playlist?list=PLZKF6lJx6gz4)
+- 🔔 **YouTube kanalı:** [@opendart](https://www.youtube.com/@opendart?sub_confirmation=1)
+- 🏢 **Kurumsal eğitim:** [https://www.opendart.com/Kurumsal/kurumsal](https://www.opendart.com/Kurumsal/kurumsal)
+
+### Son makaleler
+
+- [Flutter öğrenmeye başlamadan önce hangi ön bilgiler gerekir ve ne hazırlamalısınız?](https://www.opendart.com/makaledetay_flutter-ogrenmeye-baslamadan-once-hangi-on-bilgiler-gerekir-ve-ne-hazirlamalisiniz-278-2774.aspx)
+- [Kurumsal Flutter eğitimi nasıl planlanır? Şirketler için adım adım rehber](https://www.opendart.com/makaledetay_kurumsal-flutter-egitimi-nasil-planlanir-sirketler-icin-adim-adim-rehber-278-2761.aspx)
+- [Flutter öğrenen kişi hangi işlerde çalışır? Kariyer yolları ve aranan beceriler](https://www.opendart.com/makaledetay_flutter-ogrenen-kisi-hangi-islerde-calisir-kariyer-yollari-ve-aranan-beceriler-278-2748.aspx)
+- [Flutter kaç ayda öğrenilir? Sıfırdan iş bulacak seviyeye gerçekçi süre nedir?](https://www.opendart.com/makaledetay_flutter-kac-ayda-ogrenilir-sifirdan-is-bulacak-seviyeye-gercekci-sure-nedir-278-2735.aspx)
+- [Flutter eğitimi ücreti ne kadar? Fiyatı belirleyen etkenler nelerdir?](https://www.opendart.com/makaledetay_flutter-egitimi-ucreti-ne-kadar-fiyati-belirleyen-etkenler-nelerdir-278-2722.aspx)
+
+<!-- opendart-akademi:son -->
